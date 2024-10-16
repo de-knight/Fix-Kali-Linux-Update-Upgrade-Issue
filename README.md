@@ -6,7 +6,7 @@
 
 ## **Adding Repositories**
 
-### **To ensure you're using the correct repositories for Kali Linux, follow these steps:**
+**To ensure you're using the correct repositories for Kali Linux, follow these steps:**
 
 1. Open the repository file using the Vim editor:
 
