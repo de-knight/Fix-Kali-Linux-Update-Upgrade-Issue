@@ -11,3 +11,4 @@
  ```bash
 sudo vi /etc/apt/sources.list
  ```
+2. Press `i` to enter **Insert Mode** and add the following lines at the bottom:
